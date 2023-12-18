@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\bin\Debug\net6.0\project.Core.deps.json
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\bin\Debug\net6.0\project.Core.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\bin\Debug\net6.0\project.Core.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\project.Core.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\project.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\project.Core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\project.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\project.Core.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\refint\project.Core.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\project.Core.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.Core\obj\Debug\net6.0\ref\project.Core.dll

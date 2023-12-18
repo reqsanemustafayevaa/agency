@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\agencyproject12\project.business\bin\Debug\net6.0\project.business.deps.json
+C:\Users\II novbe\Desktop\agencyproject12\project.business\bin\Debug\net6.0\project.business.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.business\bin\Debug\net6.0\project.business.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.business\bin\Debug\net6.0\project.Core.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.business\bin\Debug\net6.0\project.data.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.business\bin\Debug\net6.0\project.data.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.business\bin\Debug\net6.0\project.Core.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\project.business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\project.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\project.business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\project.business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\project.business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\project.business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\project.business.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\refint\project.business.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\project.business.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.business\obj\Debug\net6.0\ref\project.business.dll

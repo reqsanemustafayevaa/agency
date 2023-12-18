@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\agencyproject12\project.data\bin\Debug\net6.0\project.data.deps.json
+C:\Users\II novbe\Desktop\agencyproject12\project.data\bin\Debug\net6.0\project.data.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.data\bin\Debug\net6.0\project.data.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.data\bin\Debug\net6.0\project.Core.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.data\bin\Debug\net6.0\project.Core.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\refint\project.data.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.pdb
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\ref\project.data.dll
+C:\Users\II novbe\Desktop\agencyproject12\project.data\bin\Debug\net6.0\project.data.runtimeconfig.json
+C:\Users\II novbe\Desktop\agencyproject12\project.data\obj\Debug\net6.0\project.data.genruntimeconfig.cache
